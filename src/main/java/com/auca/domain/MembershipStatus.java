@@ -1,6 +1,6 @@
 package com.auca.domain;
 
-public enum Status {
+public enum MembershipStatus {
     APPROVED,
     REJECTED,
     PENDING
